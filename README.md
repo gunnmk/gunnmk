@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Gunnar!</h1>
 ## 
- I'm a data detective with a passion for deciphering information and finding hiddenpatterns. My job is to unravel the enigma of data, translating numbers into stories, and discovering hidden treasures in big data, thus delivering valuable insights.
+I'm a data detective with a passion for deciphering information and finding hiddenpatterns. My job is to unravel the enigma of data, translating numbers into stories, and discovering hidden treasures in big data, thus delivering valuable insights.
 
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
