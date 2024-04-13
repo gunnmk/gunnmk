@@ -7,7 +7,8 @@
 
 
 ## 
-![Snake animation](https://github.com/gunnmk/seu-gunnmk-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gunnmk/gunnmk/blob/output/github-contribution-grid-snake.svg)
+
 ##
 <div>
 <a href="https://github.com/gunnmk">
