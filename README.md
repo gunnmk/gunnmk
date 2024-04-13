@@ -1,25 +1,21 @@
 ### Hey, I'm Gunnar!
 
-- 👋 Hi, I’m @gunnmk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ I'm a data detective with a passion for deciphering information and finding hiddenpatterns. My job is to unravel the enigma of data, translating numbers into stories, and discovering hidden treasures in big data, thus delivering valuable insights.
 
-<!---
-gunnmk/gunnmk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+
+##
 ![Snake animation](https://github.com/gunnmk/seu-gunnmk-aqui/blob/output/github-contribution-grid-snake.svg)
-
+##
 <div>
 <a href="https://github.com/gunnmk">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunnmk&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gunnmk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+  
+##
 
 <div>
 <a href="https://instagram.com/gunnar.guilherme" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
