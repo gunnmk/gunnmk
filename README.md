@@ -3,9 +3,6 @@
 #### I'm a data detective with a passion for deciphering information and finding hiddenpatterns. My job is to unravel the enigma of data, translating numbers into stories, and discovering hidden treasures in big data, thus delivering valuable insights.
 
 ## Some buzzwords
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=google.com%2Furl%3Fsa%3Di%26url%3Dhttps%253A%252F%252Ficon-icons.com%252Fpt%252Ficone%252Fdatabricks-logo%252F169299%26psig%3DAOvVaw3DN42S7ij80GqcXqRByfIR%26ust%3D1713130350604000%26source%3Dimages%26cd%3Dvfe%26opi%3D89978449%26ved%3D0CBIQjRxqFwoTCIC8zoGSwIUDFQAAAAAdAAAAABAE)
-
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
